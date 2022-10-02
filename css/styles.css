@@ -2,17 +2,17 @@ body {
     background-color: #F5F5F5;
     font-family: 'roboto', 'Raleway', 'sans-serif' , 'color' #212121;
 
-    }
-
+}
 a {
-    text-decoration: none;
+text-decoration: none;
 }
 a:hover {
-    color: #2196F3;
+color: #2196F3;
 }
 ul {
-    list-style: none
-}
+list-style: none
+ }
+ 
 .logo-nav {
     color: #2196F3;
     font-family: 'Raleway';
@@ -38,6 +38,7 @@ ul {
     line-height: 16px;
     letter-spacing: 0.02em;
     
+    
 }
 .nav-link-not-current {
     color: #212121;
@@ -47,6 +48,7 @@ ul {
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
+    
     
 }
 .nav-link-email-contact {
