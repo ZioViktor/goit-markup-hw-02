@@ -1,6 +1,6 @@
 body {
     background-color: #F5F5F5;
-    font-family: 'roboto', 'Raleway', 'sans-serif' , 'color' #212121;
+    font-family: 'roboto','sans-serif';
 
 }
 a {
@@ -11,6 +11,10 @@ color: #2196F3;
 }
 ul {
 list-style: none
+ }
+ .logo {
+ font-family: 'Raleway', 'sans-serif';
+
  }
 
 .logo-nav {
@@ -101,6 +105,9 @@ list-style: none
     font-weight: 700;
     font-size: 16px;
     line-height: 30px;
+    letter-spacing: 0.06em;
+    cursor: pointer;
+
     
 }
 .order-service-button:hover {
@@ -138,17 +145,7 @@ list-style: none
     letter-spacing: 0.03em;
     color: #757575;
 }
-.what-we-do {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    color: #212121;
-}
-.our-team-section {
-    background: #F5F4FA;
-
-}
-.our-team {
+.title {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -156,6 +153,10 @@ list-style: none
     line-height: 42px;
     letter-spacing: 0.03em;
     color: #212121;
+}
+.our-team-section {
+    background: #F5F4FA;
+
 }
 .our-team-foto{
     background-color: #F5F5F5;
