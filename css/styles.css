@@ -8,8 +8,6 @@
 body {
     font-family: 'Roboto', sans-serif;
     color: var(--title-text-color);
-
-
 }
 a {
 text-decoration: none;
@@ -229,7 +227,8 @@ list-style: none
 }
 
 .portfolio {
-    background-color: #F5F5F5;
+    background-color: #FFFFFF;
+    
 
 }
 
